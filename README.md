@@ -1,1 +1,1 @@
-# 2S0995zYTw6X6kIr
+The project is called MonReader. the company is developing an AI and computer vision solutions to revolutionized the industries. The goal is to create a new mobile document digitization experience for the blind, for researchers, and for everyone else in need for fully automatic, highly fast, and high quality document scanning in bulk. the goal is to predict if the page is being fliped using a single image scans. For modeling, I chose to use VGG16, resnet, Mobilenet, and efficientnet.
